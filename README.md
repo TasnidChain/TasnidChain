@@ -22,11 +22,12 @@ I run **Rizq Labs AI** — a holding company for products that serve the Muslim 
 
 | Project | What It Does | Status |
 |:--------|:-------------|:-------|
+| **[API Toll](https://apitoll.com)** | Commerce layer for the AI agent economy — USDC micropayments via x402 | Launched |
 | **[TasnidChain](https://tasnidchain.com)** | Decentralized knowledge verification protocol — digitizing Islamic *isnad* (chain of transmission) methodology | Live |
-| **[API Toll](https://apitoll.com)** | Commerce layer for the AI agent economy — USDC micropayments via x402 | Open Source |
 | **NurGuard** | Halal internet filter — DNS-based content blocking for Muslims | Launching Soon |
-| **[The Hajj App](https://thehajjapp.com)** | Sharia-compliant Hajj savings, education & booking — "Tabung Haji for the West" | Built |
-| **BackHumans** | Human capital participation platform — builders raise capital, backers get capped revenue share | In Development |
+| **[The Hajj App](https://thehajjapp.com)** | Sharia-compliant Hajj savings, education & booking — "Tabung Haji for the West" | Building |
+| **[TexBeneche.com](https://texbeneche.com)** | Direct-to-consumer platform for music, books & speeches | Building |
+| **[BackHumans](https://backhumans.com)** | Human capital participation platform — builders raise capital, backers get capped revenue share | Building |
 
 ### Open Source
 
@@ -46,6 +47,6 @@ Knowledge should be verifiable. Finance should be halal. The internet should be 
 
 <div align="center">
 
-**[tasnidchain.com](https://tasnidchain.com)** · **[apitoll.com](https://apitoll.com)** · **[thehajjapp.com](https://thehajjapp.com)**
+**[apitoll.com](https://apitoll.com)** · **[tasnidchain.com](https://tasnidchain.com)** · **[thehajjapp.com](https://thehajjapp.com)** · **[texbeneche.com](https://texbeneche.com)** · **[backhumans.com](https://backhumans.com)**
 
 </div>
